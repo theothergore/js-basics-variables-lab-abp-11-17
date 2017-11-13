@@ -1,2 +1,2 @@
-// this is fly j gore's first comment. Below is my solution for this lab. 
-let companyName = 'Scuber';
+// this is fly j gore's first comment. Below is my solution for this lab.
+const companyName = 'Scuber';
